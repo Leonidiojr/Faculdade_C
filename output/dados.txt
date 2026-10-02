@@ -1,0 +1,35 @@
+CLIENTES 10
+1;Leonidio Alves de Moraes Junior;6299695697;leonidiojr@gmail.com
+2;Maria Silva;62991234567;maria@gmail.com
+3;João Pereira;62999887766;joao@gmail.com
+4;Ana Costa;62993456789;ana@gmail.com
+5;Carlos Souza;62997654321;carlos@gmail.com
+6;Fernanda Lima;62994561234;fernanda@gmail.com
+7;Paulo Henrique;62998765432;paulo@gmail.com
+8;Juliana Rocha;62993216548;juliana@gmail.com
+9;Ricardo Mendes;62997651234;ricardo@gmail.com
+10;Beatriz Oliveira;62992345678;beatriz@gmail.com
+PRODUTOS 11
+1;X-TUDO;Sanduíche com hambúrguer bovino, mussarela, alface, cebola e maionese;lanche;45.00;1
+2;Cheeseburger;Hambúrguer com queijo cheddar e molho especial;lanche;25.00;1
+3;Hot Dog;Cachorro-quente com salsicha, molho, batata palha e ketchup;lanche;20.00;1
+4;Batata Frita;Porção média de batata frita crocante;lanche;12.00;1
+5;Pizza Mussarela;Fatia de pizza com molho de tomate e mussarela;lanche;10.00;1
+6;Coca-Cola;Refrigerante lata 350ml;bebida;6.00;1
+7;Suco Natural;Suco de laranja natural 300ml;bebida;8.00;1
+8;Água Mineral;Garrafa de água mineral 500ml;bebida;4.00;1
+9;Milkshake;Milkshake de chocolate com chantilly;sobremesa;15.00;1
+10;Pudim;Sobremesa doce de leite condensado;sobremesa;7.00;1
+11;Cerveja sem alcool;Cerveja em lata,sem alcool, Heinekein;bebida;10.00;1
+PEDIDOS 3
+1;25/09/2026 15:34;1;2;900.00;Entregue
+ITEM;1;10;450.00
+ITEM;1;10;450.00
+2;25/09/2026 15:39;10;2;500.00;Entregue
+ITEM;1;10;450.00
+ITEM;5;5;50.00
+3;25/09/2026 16:06;1;1;24.00;Em preparação
+ITEM;7;3;24.00
+PAGAMENTOS 2
+1;1;450.00;PIX
+2;2;500.00;PIX
