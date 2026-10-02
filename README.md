@@ -2,7 +2,7 @@ Projeto Lanchonete em C
 =======================
 
 🍔 Este projeto simula o funcionamento de uma lanchonete utilizando a linguagem C.
-O sistema permite gerenciar pedidos, cardápio e clientes de forma simples e prática.
+O sistema permite gerenciar pedidos, produtos, pagamentos e clientes de forma simples e prática.
 
 ------------------------------------------------------------
 🚀 Funcionalidades
